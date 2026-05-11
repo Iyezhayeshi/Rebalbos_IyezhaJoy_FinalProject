@@ -2,7 +2,7 @@
 
 > A command-line application for organising projects and tasks, built with pure Python.
 
-**YouTube Demo:** _[Add your YouTube URL here after recording]_
+**YouTube Demo:** 
 
 ---
 
