@@ -90,7 +90,7 @@ sum(1 for t in self.tasks if t.status == Status.DONE) / len(self.tasks) * 100
 ## Project Structure
 
 ```
-TaskFlow_FinalProject/
+Rebalbos_IyezhaJoy_FinalProject/
 │
 ├── README.md                  # This file
 ├── requirements.txt           # No external dependencies
