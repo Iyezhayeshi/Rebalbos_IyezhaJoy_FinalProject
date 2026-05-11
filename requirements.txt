@@ -1,0 +1,9 @@
+# TaskFlow — External Dependencies
+# No third-party packages are required.
+# TaskFlow uses only Python standard library modules:
+#   - json        : data persistence
+#   - csv         : CSV export
+#   - datetime    : date/time handling
+#   - pathlib     : cross-platform file paths
+#   - enum        : Priority and Status enumerations
+#   - os, sys     : runtime utilities

@@ -1,0 +1,113 @@
+{
+  "projects": [
+    {
+      "project_id": 1,
+      "name": "Website Redesign",
+      "description": "Full redesign of company website for Q3 launch",
+      "created_at": "2026-04-01T08:00:00",
+      "_next_task_id": 6,
+      "tasks": [
+        {
+          "task_id": 1,
+          "title": "Create wireframes",
+          "description": "Design low-fidelity wireframes for all main pages",
+          "priority": "HIGH",
+          "status": "done",
+          "due_date": "2026-04-10",
+          "created_at": "2026-04-01T08:00:00",
+          "tags": ["design", "ux"]
+        },
+        {
+          "task_id": 2,
+          "title": "Write homepage copy",
+          "description": "Draft hero section text, taglines, and CTA buttons",
+          "priority": "MEDIUM",
+          "status": "done",
+          "due_date": "2026-04-15",
+          "created_at": "2026-04-02T09:00:00",
+          "tags": ["content", "marketing"]
+        },
+        {
+          "task_id": 3,
+          "title": "Implement responsive layout",
+          "description": "Build HTML/CSS layout that works on mobile, tablet, and desktop",
+          "priority": "HIGH",
+          "status": "in_progress",
+          "due_date": "2026-05-10",
+          "created_at": "2026-04-05T10:00:00",
+          "tags": ["frontend", "css"]
+        },
+        {
+          "task_id": 4,
+          "title": "Set up analytics tracking",
+          "description": "Integrate Google Analytics 4 and define conversion goals",
+          "priority": "MEDIUM",
+          "status": "todo",
+          "due_date": "2026-05-20",
+          "created_at": "2026-04-06T11:00:00",
+          "tags": ["analytics", "backend"]
+        },
+        {
+          "task_id": 5,
+          "title": "Perform accessibility audit",
+          "description": "Run WCAG 2.1 AA audit and fix critical issues",
+          "priority": "CRITICAL",
+          "status": "todo",
+          "due_date": "2026-05-05",
+          "created_at": "2026-04-07T09:30:00",
+          "tags": ["a11y", "qa"]
+        }
+      ]
+    },
+    {
+      "project_id": 2,
+      "name": "CS Final Exam Prep",
+      "description": "Study plan and tasks for end-of-semester exams",
+      "created_at": "2026-04-20T07:00:00",
+      "_next_task_id": 5,
+      "tasks": [
+        {
+          "task_id": 1,
+          "title": "Review sorting algorithms",
+          "description": "Study bubble sort, merge sort, quicksort — time and space complexity",
+          "priority": "HIGH",
+          "status": "in_progress",
+          "due_date": "2026-05-08",
+          "created_at": "2026-04-20T07:00:00",
+          "tags": ["algorithms", "dsa"]
+        },
+        {
+          "task_id": 2,
+          "title": "Practice Python OOP exercises",
+          "description": "Complete 10 OOP coding problems from the exercise set",
+          "priority": "HIGH",
+          "status": "todo",
+          "due_date": "2026-05-09",
+          "created_at": "2026-04-21T08:00:00",
+          "tags": ["python", "oop"]
+        },
+        {
+          "task_id": 3,
+          "title": "Make flashcards for data structures",
+          "description": "Stack, queue, linked list, tree, graph — definitions and use cases",
+          "priority": "MEDIUM",
+          "status": "todo",
+          "due_date": "2026-05-10",
+          "created_at": "2026-04-22T09:00:00",
+          "tags": ["study", "dsa"]
+        },
+        {
+          "task_id": 4,
+          "title": "Take practice exam",
+          "description": "Complete one full mock exam under timed conditions",
+          "priority": "CRITICAL",
+          "status": "todo",
+          "due_date": "2026-05-12",
+          "created_at": "2026-04-23T10:00:00",
+          "tags": ["exam", "practice"]
+        }
+      ]
+    }
+  ],
+  "_next_project_id": 3
+}
